@@ -1,5 +1,3 @@
-VSCode
-
 ## [AZ-204](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/)
 
 ## [VSCode](https://code.visualstudio.com/download)
